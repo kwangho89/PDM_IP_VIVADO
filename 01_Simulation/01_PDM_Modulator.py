@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Spyder Editor
-
-This is a temporary script file.
+PDM IP MAKING USIG VIVADO & PYTHON
+Editor: KWANGDALF
 """
 
 import numpy as np;
